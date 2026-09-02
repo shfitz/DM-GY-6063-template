@@ -1,6 +1,6 @@
 // change the quotes in this array. Be mindful of the quotation marks!
 // this is the only part of the file you need to edit!
-// computer go home
+
 const quotes = [
   { text: "the intersection of programming, design, and art", source: "Scott" },
   { text: "a chance for code to be wrong", source: "Sara" },
