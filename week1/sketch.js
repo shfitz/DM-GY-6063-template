@@ -52,4 +52,8 @@ function newQuote() {
 
 function mousePressed() {
   newQuote(); 
+<<<<<<< Updated upstream
 }
+=======
+}
+>>>>>>> Stashed changes
